@@ -1,5 +1,5 @@
 # RGB Colors Guessing Game
-[Demo](https://kennethwty.github.io/color-guessing-game/)
+#### [Demo](https://kennethwty.github.io/color-guessing-game/)
 The game has two modes - Easy / Hard.<br><br>
 Simply choose the color that you think is the correct color to the provided RGB code above the white stripe.<br><br>
 If your chosen color is correct, all other squares as well as the header will become the correct color. If it is incorrect, the chosen square will disapper.<br><br>
